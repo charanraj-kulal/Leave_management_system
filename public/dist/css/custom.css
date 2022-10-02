@@ -1,0 +1,30 @@
+.success_message {
+    min-height: 0 !important;
+    
+}
+
+.buttons {
+    display: none; 
+}
+
+.table-pagination svg {
+    width: 15px;
+}
+.table-pagination nav div:first-child {
+    background-color: #ffff;
+    display: none;
+}
+.cursor-default {
+    background: #007bff !important;
+    color: #07074d !important;
+    font-weight: 500;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+  background-color: #007bff;
+  color: #06064c;
+}
+.nav-treeview li a p {
+    font-size: 15px;
+}
