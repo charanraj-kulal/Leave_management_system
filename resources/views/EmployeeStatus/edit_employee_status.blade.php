@@ -75,7 +75,7 @@
     </div>
     <?php } else{ ?>    
       <div class="content-wrapper" style="background-color: #ffff; !important;">
-          <h3 class="card-title"><strong>You are not authorized to enter here</strong></h3>
+          <h3 class="card-title"><strong>You are not yet authorized to enter here</strong></h3>
       </div>
     <?php } ?>
     @endsection
